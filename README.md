@@ -27,9 +27,7 @@
     <mtime>1203360496</mtime>
     <size>216426</size>
     <crc32>404f9758</crc32>
-    <sha1>48e1abe133c34629a1e845d9de92b1a080ec30b6</sha1>
-  </file>
-  <file name="atreatiseonpred00copigoog.pdf" source="original">
+    <sha1>48e1abe133c34629a1e845d9de92b1a080ec30b6</sha1>source="original">
     <format>Image Container PDF</format>
     <original-name>A_Treatise_on_Predestination__Election_a.pdf?id=ApU4AAAAMAAJ&amp;output=pdf&amp;sig=iGWN9Khm1nEzgAj_7oG2Jw938Vo</original-name>
     <size>53660128</size>
@@ -131,13 +129,11 @@
   <year>1889</year>
   <date>1889</date>
   <oclc-id>5234188</oclc-id>
-  <scandate>20070626</scandate>
-  <copyright-region>US</copyright-region>
-  <description>Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.</description>
+  <scandate>20070626<ded to the Internet Archive by user tpb.</description>
   <identifier-ark>ark:/13960/t6vx0bt7s</identifier-ark>
   <imagecount>688</imagecount>
   <publicdate>2008-02-19 03:34:54</publicdate>
-  <source>http://books.google.com/books?id=ApU4AAAAMAAJ&amp;oe=UTF-8</source>
+  <source>http?id=ApU4AAAAMAAJ&amp;oe=UTF-8</source>
   <contributor>University of Michigan</contributor>
   <sponsor>Google</sponsor>
   <uploader>tpb</uploader>
