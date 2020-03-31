@@ -117,4 +117,55 @@
     <crc32>9b22c8a2</crc32>
     <sha1>f11722a2148980227aec2d3d502be519a500eae4</sha1>
   </file>
-</files>
+</files> <?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <publisher>James Nisbet</publisher>
+  <identifier>atreatiseonpred00copigoog</identifier>
+  <scanner>google</scanner>
+  <title>A Treatise on Predestination, Election and Grace, Historical, Doctrinal, and ...</title>
+  <creator>Walter Arthur Copinger</creator>
+  <mediatype>texts</mediatype>
+  <collection>americana</collection>
+  <possible-copyright-status>NOT_IN_COPYRIGHT</possible-copyright-status>
+  <identifier-access>http://www.archive.org/details/atreatiseonpred00copigoog</identifier-access>
+  <year>1889</year>
+  <date>1889</date>
+  <oclc-id>5234188</oclc-id>
+  <scandate>20070626</scandate>
+  <copyright-region>US</copyright-region>
+  <description>Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.</description>
+  <identifier-ark>ark:/13960/t6vx0bt7s</identifier-ark>
+  <imagecount>688</imagecount>
+  <publicdate>2008-02-19 03:34:54</publicdate>
+  <source>http://books.google.com/books?id=ApU4AAAAMAAJ&amp;oe=UTF-8</source>
+  <contributor>University of Michigan</contributor>
+  <sponsor>Google</sponsor>
+  <uploader>tpb</uploader>
+  <language>English</language>
+  <repub_state>4</repub_state>
+  <backup_location>ia903601_24</backup_location>
+  <openlibrary_edition>OL20544707M</openlibrary_edition>
+  <openlibrary_work>OL13097225W</openlibrary_work>
+  <subject>author</subject>
+  <subject>doctrine</subject>
+  <subject>grace</subject>
+  <subject>divine</subject>
+  <subject>god</subject>
+  <subject>der</subject>
+  <subject>dei</subject>
+  <subject>predestination</subject>
+  <subject>election</subject>
+  <subject>elect</subject>
+  <subject>von der</subject>
+  <subject>jesus christ</subject>
+  <subject>holy spirit</subject>
+  <subject>holy scripture</subject>
+  <subject>free grace</subject>
+  <subject>holy ghost</subject>
+  <subject>original sin</subject>
+  <subject>libero arbitrio</subject>
+  <subject>eternal life</subject>
+  <subject>absolute decree</subject>
+  <addeddate>2008-02-19 03:34:54</addeddate>
+</metadata>
+
